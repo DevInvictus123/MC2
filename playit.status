@@ -1,780 +1,1083 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731709755328 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731729112305 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709758387 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729115388 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709761476 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729118461 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709764687 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729121516 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709767754 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729124580 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709770824 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729127695 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709773961 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729130776 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709777039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729133844 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709780123 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729136906 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709783194 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729139968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709786252 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729143066 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709789314 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729146118 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709792373 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729149187 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709795444 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729152254 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709798641 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729155353 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709801700 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729158435 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709804768 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729161506 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709807826 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729164561 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709810894 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729167616 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709813967 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729170671 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709817027 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729173728 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709820111 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729176822 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709823201 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729179877 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709826262 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729182937 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709829374 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729186011 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709832453 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729189075 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709835542 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729192148 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709838605 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729195215 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709841661 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729198268 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709844724 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729201333 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709847794 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729204412 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709850861 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729207466 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709853920 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729210522 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709856979 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729213580 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709860033 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729216660 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709863135 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729219718 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709866215 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729222798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709869287 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729225868 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709872358 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729228935 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709875440 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729232004 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709878494 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729235070 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709881553 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729238138 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709884612 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729241212 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709887668 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729244269 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709890743 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729247360 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709893803 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729250434 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709896867 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729253518 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709899952 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729256585 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709903014 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729259663 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709906079 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729262729 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709909153 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729265793 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709912229 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729268848 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709915292 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729271906 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709918367 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729274960 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709921437 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729278014 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709924512 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729281072 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709927585 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729284134 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709930655 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729287189 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709933715 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729290270 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709936771 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729293328 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709939832 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729296380 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709942890 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729299449 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709945953 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729302514 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709949010 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729305573 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709952077 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729308638 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709955141 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729311709 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709958208 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729314772 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709961278 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729317839 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709964350 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729320932 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709967417 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729324002 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709970484 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729327072 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709973551 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729330148 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709976613 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729333222 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709979680 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729336279 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709982743 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729339338 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709985813 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729342397 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709988883 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729345456 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709991965 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729348517 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709995050 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729351588 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731709998121 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729354655 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710001185 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729357723 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710004250 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729360779 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710007321 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729363838 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710010395 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729366894 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710013466 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729369955 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710016526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729373013 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710019608 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729376069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710022688 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729379139 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710025757 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729382210 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710028827 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729385263 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710031899 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729388330 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710034960 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729391397 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710038030 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729394487 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710041091 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729397545 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710044170 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729400609 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710047231 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729403675 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710050287 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729406754 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710053368 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729409814 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710056428 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729412927 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710059486 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729415993 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710062548 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729419059 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710065635 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729422123 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710068706 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729425191 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710071780 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729428249 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710074850 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729431318 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710077924 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729434374 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710080981 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729437442 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710084051 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729440506 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710087115 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729443580 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710090182 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729446644 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710093241 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729449703 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710096299 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729452795 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710099363 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729455852 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710102435 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729458908 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710105513 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729462041 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710108572 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729465105 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710111633 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729468163 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710114702 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729471218 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710117766 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729474277 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710120832 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729477332 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710123899 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729480651 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710126991 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729483712 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710130065 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729486772 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710133123 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729489829 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710136266 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729492890 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710139322 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729495955 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710142378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729499024 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710145434 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729502100 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710148505 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729505164 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731710151572 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731729508221 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
 magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729511284 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729514343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729517401 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729520463 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729523524 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729526588 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729529660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729532739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729535795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729538855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729541927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729545003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729548065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729551124 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729554183 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729557243 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729560306 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729563502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729566566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729569629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729572729 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729575794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729578864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729581940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729585000 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731729600087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729603171 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729606231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729609290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729612350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731729627457 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729630518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729633579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729636656 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729639727 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729642797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731729657884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729660942 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729664002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729667083 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729670155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729673219 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731729688317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729691385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729694454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729697522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729700584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1731729703644 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+river-destroyed.gl.at.ply.gg:3182 => 127.0.0.1:3182 (proto: Udp, port count: 1)
+magazine-surplus.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
